@@ -1,0 +1,277 @@
+[2026-09-17T15:48:53+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena.zip | ab32fde34e67e03232570351df6dadcda6863f7f7096e208fbf4e5544788c93d
+[2026-09-17T15:48:53+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis.zip | e30d8488e92fef77bb26ff0657cfa926861ed466ca0142a1056afc27fc06b2db
+[2026-09-17T15:48:53+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17 (Terbaru).zip | f92fa1930f265b01a66fd08767ccbacd590bd909021a371948d879fbfb7926e2
+[2026-09-17T15:48:53+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17.zip | 46afe40d23a807d302b86050b8304260712eba6e875f19370f6e02ecdc4c9032
+[2026-09-17T15:48:53+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\53. Lapkir SKM Kelurahan Sogaten.docx | 33ccfb149d299f21d100083c64492e3ccbf17f7966ee84df1d68c9a860a73b49
+[2026-09-17T15:48:54+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\55. Lapkir SKM Kelurahan Ngegong.docx | 9fe98171a4f1434bd0778a35deb531d900cd32d2e8be4e42650ea1a147d364cb
+[2026-09-17T15:48:54+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\58. Lapkir SKM Kelurahan Pangongangan.docx | ed7c3270453c367a0e8a6ffdf3cdd04e75f4dd0395a59563710fd141d72d6f84
+[2026-09-17T15:48:54+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\61. Lapkir SKM Kecamatan Taman.docx | b224cf2c2b6aa33171bc44d0a6bd397e9a4e29141f016e95eb4e4345f3556cef
+[2026-09-17T15:48:54+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\62. Lapkir SKM Kelurahan Mojorejo.docx | c19800e4d493f49da496c9b9910f22ce9c5fe9427df281d9e209819fb06c3d01
+[2026-09-17T15:48:55+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\63. Lapkir SKM Kelurahan Pandean.docx | 3307d690f3edf7ed7fbd418727c46ccb95ca17d2e139813245223366c8f9c060
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\65. Lapkir SKM Kelurahan Kuncen.docx | 1458ad5db5c1f381db878c7cff8450870bbb2f2c2a67e69059a9d521f6632589
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\70. Lapkir SKM Kelurahan Taman.docx | 631a8e786631607793469e6a5a4cac7a70afbff895a0835ce00244dc3a3905c1
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\71. Lapkir SKM Perum DAM Tirta Taman Sari.docx | 2153a545151232db98305d1da78d3eb5d929d19aabd62b845ef30bc7c9706b39
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\72. Lapkir SKM Perumda Aneka Usaha.docx | 5953e487c2c8ef056c7230301959ceca6a27199c3e49a5f1d73fa8d96e567f8e
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\~$. Lapkir SKM Kecamatan Taman.docx | e072e827c85a60c08ed10c21dda32f94b5ad78bf4f679cd1d4d48e8b1d11d7fe
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\~$. Lapkir SKM Kelurahan Mojorejo.docx | bba4650358baeed7eba39198ae201b1762db7b1b71918938f3eb6b0452661adc
+[2026-09-17T15:48:56+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\~$. Lapkir SKM Kelurahan Pandean.docx | 94c8adda1d92794275541be6c9815ac348306d8fa64331ad6383b5ccb2fb14b9
+[2026-09-17T15:48:57+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\53. Lapkir SKM Kelurahan Sogaten.docx | aeb499e74c05a9db8b294ae0804eef393566cfb8d6a12d640bef8b69eec83858
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\55. Lapkir SKM Kelurahan Ngegong.docx | 6ff1d267c2e182b89daaa9819c2e42b888e0bd78c2f2ea32d7a1fae41eef3371
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\58. Lapkir SKM Kelurahan Pangongangan.docx | ac18ba70d363f5b3ece05490f4a677dc0a6fd6326ef1ec85b319c0d717f77803
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\61. Lapkir SKM Kecamatan Taman.docx | 167e8ef6bdf4d2c7dbb94bb2075aa2380decd40c7e73aee88391365c10fc68d1
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\62. Lapkir SKM Kelurahan Mojorejo.docx | bd9eae724ce49e0e6ff6f679898722a3144b1147da3aa2fc15d7cef1c3307727
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10 bag vena\tugas ravena\~$. Lapkir SKM Kelurahan Sogaten.docx | 6422df912bbdfa5605b94aba3da0c786cfb0ad2880c87d10c20256162a7696f5
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10. Dinas Kependudukan dan Pencatatan Sipil\4. MS Var - Jumlah data profil kependudukan yang disusun.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\10. Dinas Kependudukan dan Pencatatan Sipil\4. MS Var - [harusnya ms var] Jumlah data profil kependudukan yang disusun.xlsx | a63fb765822ed0f9490594dee284e977a81089176c7d52ee685df6386710b6f2
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\12. Badan Kesatuan Bangsa dan Politik\2. MS Ind - Jumlah Konflik Sosial.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\12. Badan Kesatuan Bangsa dan Politik\2. MS Var - [hrse var] Jumlah Konflik Sosial.xlsx | 9de391df8f2e421df6464cb1839d231d4305322ebaadd1836ba10b98cba57bb2
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\0. MS Ind.xlsx | be13f225b12d0493f60ec63c36c0ae023bf405a113ed32c34c2b8c9ea3b229ea
+[2026-09-17T15:48:58+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\0. MS Kegiatan.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\0. MS Var.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\0. MS Var.xlsx | 72c07f5484f04cec95f6c6ea928b8f9c38ab4d1ba8ecc672975d92802cd8e633
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\1. MS Ind - Persentase Desa Kelurahan yang tersosialisasi dalam Pencegahan Kebakaran.docx | eec874191cbe233dde1ac3609e306709a765578d24796156c0a4cc268625da45
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\1. MS Keg -.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\2. MS Ind - Persentase Pemenuhan Sarana dan Prasarana Pemadam Kebakaran (%).docx | a85208d89e50d4d88c19b476287af033c0aee1ba7eca983641b94a65ef9b9a66
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\2. MS Keg - Kompilasi Pendataan dan Inventarsasi Sarana dan Prasarana Pemadam Kebakaran dan Pe.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\3. MS Ind - Tingkat Waktu Tanggap Daerah Layanan WMK.docx | d97be0e9407ab9a4bc203a98d9e9697229a7bc1569ea0313d9c527a505f6936a
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\2. Dinas Pemadam Kebakaran dan Penyelamatan\3. MS Keg - Kompilasi dan Rekapitulasi Data Kejadian Kebakaran dan Waktu Tanggap Kebakaran.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\0. MS Ind.xlsx | fe6b06c277ae8a5de9e63b6b77daa5689921e04474f328d30ffe168e158c0f05
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\0. MS Kegiatan.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\0. MS Var.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\0. MS Var.xlsx | 72c07f5484f04cec95f6c6ea928b8f9c38ab4d1ba8ecc672975d92802cd8e633
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\1. MS Ind - Persentase Aplikasi Pemerintahan yang Terintegrasi.docx | 46b9e2f4458d1fd00f248e8452e266bee15290b4a8112665f1e811c8a2d0a691
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\1. MS Keg - Persentase Aplikasi Pemerintahan yang Terintegrasi.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\2. MS Ind - Persentase Publikasi Data Sektoral dalam Portal Satu Data.docx | 46b9e2f4458d1fd00f248e8452e266bee15290b4a8112665f1e811c8a2d0a691
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\2. MS Keg - Persentase Publikasi Data Sektoral dalam Portal Satu.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:48:59+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\blm dilakukan\3. MS Ind - Indeks KAMI.docx | 46b9e2f4458d1fd00f248e8452e266bee15290b4a8112665f1e811c8a2d0a691
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\3. Dinas Komunikasi, Informatika, Statistik dan Persandian\blm dilakukan\3. MS Keg - Indeks KAMI.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\31. Dinas Perikanan\1. MS Var - Produksi Perikanan [haruse ms var, pindah].xlsx | c8c2290911e2bd442c5cad883aa9cb06438b8bc4e4dd3704b17211365e3b5d49
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\31. Dinas Perikanan\1. MS Var - Produksi perikanan.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\32. Dinas Perkebunan\1. MS Var - Produksi Hasil Perkebunan.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\32. Dinas Perkebunan\1. MS Var - Produksi Hasil Perkebunan.xlsx | 72c07f5484f04cec95f6c6ea928b8f9c38ab4d1ba8ecc672975d92802cd8e633
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\0. MS Ind.xlsx | e7a66a1dec51a486881676e7f175a200e0599757ab33cd04eecee3340c17d8d3
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\0. MS Kegiatan.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\0. MS Var.docx | 761b81316bda820913c3cbc4fbeed70a0ae44b83ab51e29364faa789e69abb3e
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\0. MS Var.xlsx | 72c07f5484f04cec95f6c6ea928b8f9c38ab4d1ba8ecc672975d92802cd8e633
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\1. MS Ind - Persentase Perlengkapan Jalan yang Telah Terpasang Terhadap Kondisi Ideal.docx | 899fba758d8f103771b0d54dbc1b37e0c084bde60ad2cd7cfe487e796244d88f
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\1. MS Keg - Persentase Perlengkapan Jalan yang Telah Terpasang Terhadap Kondisi Ideal.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\2. MS Ind - Persentase Kendaraan Tidak Patuh Lalin yang Terjaring Dalam Operasi Gakum.docx | a4e8886bdef9c2211bcafab480fc4a0ca9c22f566c0c81abf1a03867f6707ed3
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\4. Dinas Perhubungan\2. MS Keg - Persentase Kendaraan Tidak Patuh Lalin yang Terjaring Dalam Operasi Gakum.docx | 2bb968d41b3887a1a182b803016f4154bd2fdcdf06439492019a4eea97260934
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\74. SMP NEGERI 1.xlsx | 2b30138c7dec644a2ae384ff7e0aeb34d31bc02ce1176a72f9829009973881ac
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\75. SMP NEGERI 2.xlsx | fd9979c1b733648b8535dec0e8166dfd52e6f7d4274e05301646bdd933b857cb
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\76. SMP NEGERI 3.xlsx | 56f02258bfe43014e6daeca69fbbba42889408ee51792985d59057e9f5ecab0e
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\77. SMP NEGERI 4.xlsx | 4feca2142b96761ea7fa8ee8a45a23e441fc612cdc10738cc0304e72e5f76f6f
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\78. SMP NEGERI 5.xlsx | 341e9b66659a304561f0b7a09feff1f94bf30133da074c303f77bc2eaf318ce4
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\79. SMP NEGERI 6.xlsx | 938d368f8b137b810c055ed8cb6b833a6076cdb4a68203203d01cf9bab90973e
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\80. SMP NEGERI 7.xlsx | 759d2349116205bde1c8ccca8c8992f05a0a4dedb5c9910907343a53b952accb
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\81. SMP NEGERI 8.xlsx | ede61a8575e156b87574f0b64393398863ba5f61d3bdceedf6cc8c815ad42da3
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\82. SMP NEGERI 9.xlsx | 46652a0bc89fad3f5a3a7305d57b82ada6657979845b17f1f9001b6ca32c7f88
+[2026-09-17T15:49:00+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\83. SMP NEGERI 10.xlsx | a12f78663057ab213854f79534818e3efb7d3507603b98e87c13fc4f8d89b168
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\84. SMP NEGERI 11.xlsx | 56e4f806fd83c9a6271832542510cc830943d171cdc07d7ddc27afc26a4edf93
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\85. SMP NEGERI 12.xlsx | 00ea798c15d62f9ce6de4fe8b6fd5c7dd5c31537017c2906e18237233f1e4cc2
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\86. SMP NEGERI 13.xlsx | 9d34f3c31e3ba6be40b246b94370e7a6099f732d6121856d41d93e96a7abb18f
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\87. SMP NEGERI 14.xlsx | 8f8e7ac175e01f9842cddbfec74d47d797e66f5c016ee14c5b232df3195095b6
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\88. SDN 1 KARTOHARJO.xlsx | a97211b24dbe6e5a60c872fc565e28933d1ea29d90f77c9fb2c8c9614f2ab8c6
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\89. SDN 01 KLEGEN.xlsx | 3e048c6be375f25919454941a09f7bb406fe7f2fa89613c8e1b8322e94754f9d
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\90. SDN 03 KANIGORO.xlsx | a271a5d70f05c12fee4a185a78c80af5385d774f4cfd46d5e101785be4d3792f
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\91. SDN PILANGBANGO.xlsx | 9df44220993290834caaf77a78cfc20b9b1ca8c2762b071da81cfda7447fb302
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\92. SDN 05 MADIUN LOR.xlsx | 2f5565c0a264a5fd77c35cff0143edf98d9bdcdb2bfdeb9711f230752b0dcf5c
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\93. SDN 01 WINONGO.xlsx | 8c596eca340a3494b4379601a2b9b23fe2cee82dce0e53ff3e643c49e71581db
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\94. SDN 03 MADIUN LOR.xlsx | 633a595c76f88900f2c162491ea8484d1aea9d21547179ad72f178d3fb576974
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\95. SDN PATIHAN.xlsx | 20f4b558c6514eedb1c608f66bf2f043f0379632c745d88d20f6db5f1a5325e9
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\96. SDN 01 TAMAN.xlsx | 2659a3e1b3e471a9c851e285779ff17d3a2be55156c6df6f4739f567b81a13ff
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\97. SDN 02 MOJOREJO.xlsx | d395409dbe1376b1148c7fa8b5dd05566ca7815598584dcd2f867fcb1514a800
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\98. SDN 01 MANISREJO.xlsx | 2663a327e8ff8bfeb267572cc370942e2c603b5a2c421074463e073fce8e6510
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\filter demo\99. SDN BANJAREJO.xlsx | 46117609e1b7cf0873ab90c923e4f9b190682ae303a2377e6fabee8004ca2034
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\74. SMPN 1.docx | 5d409b17df0159cd8ba756335947312162125d307189752974959d9e1ebda093
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\75. SMPN 2.docx | 7ecc47f40dfcbd6d22d9858d11568fd9c1ce123d502155b81e6babe438b751ea
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\76. SMPN 3.docx | 26b2df51edf2a26be681c4a65f5b9fcdd1f3caf1b83a7535d939dafc81402948
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\77. SMPN 4.docx | 0cd6dbe3673f33d16b969fb23794698ad82114ee51c38579cc9308a4ba3c5874
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\78. SMPN 5.docx | 9ad7a1c006c6e1f852b9603197e839fec4a151c7e322c3dbd8b8356abd3ae062
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\79. SMPN 6.docx | ce34472ba5322aa25fd5e6760da2feb3d5281ba6283d1e0ad9b56a7122f58212
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\80. SMPN 7.docx | 499df2e533075fcefb6708d2da404729963cfc97c87298fd8909f663bcebc5b8
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\81. SMPN 8.docx | 3832bf39646467eed2c5aeacee012df803816e112e2db61c2d35a813a3fd96b6
+[2026-09-17T15:49:01+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\82. SMPN 9.docx | d2581d5bb9c9281e33d05ebad1e8211ae469e8441d7b6073c3c9245290604bbc
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\83. SMPN 10.docx | dd20e4a3bd52642c60f7eb8f4514837a0961d7092cc8a8a6e6d65ea44ebae068
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\84. SMPN 11.docx | 55bebb5716d1006827ae35cb1547e15340c57da632091da07b2a640b5d0751ab
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\85. SMPN 12.docx | 43c1586ee681c458f7bdb2a830dddab078c7cf482e279a2d296028d10d2e701b
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\86. SMPN 13.docx | e3aa63c680a99656f34affc1c50ceb0a38c7d46a8a1f19c980fbf86942e0f8f1
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\87. SMPN 14.docx | 418a5a3aca832b38dc8aa4031916c3a417269d32c034c406c96d727bbe03744a
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\88. SDN 1 KARTOHARJO.docx | 45547eca48f6f767e7b0a9c80de9c7a34fb6e87a5c7b00f34d5c61ebbf66a527
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\89. SDN 01 KLEGEN.docx | c4dfdeb5fd1824dccbde413caaaf7f487690226ce052110a714ceeff05ee4d1a
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\90. SDN 03 KANIGORO.docx | 28f4a944ca08f3428f8d0777123dbedc20989b01267dc24ed2ba4ba59ae36147
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\91. SDN PILANGBANGO.docx | ed5996c5edfe002c4abf03fd8dc0a89cc399302b0ae3ce51cc5e0a5aa70d0684
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\92. SDN 05 MADIUN.docx | fbdfa1949b2d41b45580c1084b71b697cd8e85d8d541f96e01e8c251660e0a0a
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\93. SDN 01 WINONGO.docx | baaab1a986bb37df2a6fdc53fd274e1082fd58a1906a96fcc8a2ca6cceddd357
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\94. SDN 03 MADIUN LOR.docx | ea37c2542fe287ceac426e41700a7c32ffb091d5f64c7b930ddb5b33df4ee7b4
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\95. SDN PATIHAN.docx | f1ec3116e771f1391f7936a1fba4271809990b33b65595a0e6a1990da05f1de0
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\96. SDN 01 TAMAN .docx | 9166e6d38cca599d8976a04680e094e2b14bd4fa7a59115730c083570d801d67
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\97. SDN 02 MOJOREJO.docx | bf4b14c6941efca96e63cb312bb9f40abd196eb9c9ebddea835eba530bb827d7
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\98. SDN 01 MANISREJO.docx | c97ab7e194813d656fa3362eb49273fe7f5f6a2d97e99c669c8b9cff207f1716
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\99. SDN Banjarejo.docx | 90bdfeb88e039c20c32d71df25345dae354f641b7d718f25aad1c88557d1c75c
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\~$. SMPN 1.docx | e212d2374e0c0b5adb471b7cea5d46739fb09bc7493502566721063cd43bc156
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\~$. SMPN 2.docx | 45d4d7f99372185688538767fbc279eecfab7ca6f461a0dc2e48c1ef8467a0f7
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\~$. SMPN 3.docx | 734030fec1af5a321ea6ebd647ae30752e7e4f5700dfe29644574df7b39e25d1
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\~$. SMPN 4.docx | 44820fd47ec81b84a6cce53b7179ba9b955aa8c44288bb7f4877a5855bd2a2de
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\~$. SMPN 5.docx | dc1eb9e64c01cf50530d8be5603dbed19c435846423e4b6abf988cafb4d7eacb
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\1. Bagian Pemerintahan Sekretariat Daerah.docx | 19a9fc69e98e407ecb83d564aa40ccb81a16549ef3f2f677094c072f42e5796f
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\10. Dispudparpora.docx | 3897f95d8544b1918f30b6ec111b49df74562e67615ffa88784c51ce04332b68
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\11. Dinkes PPKB.docx | 90a392f23fe631ccf55c2f012a83f9a9046ba1744ec1b0dd8a847542f29a3cf8
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\15. Puskesmas Ngegong.docx | 1645659a4a6c15f5ecd1ebd9d323a53837bdea188db4d2e75155cf6b7934d044
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\17. Puskesmas Banjarejo.docx | 8d0587580800b9877052474c13ef0aeb72ef082604cb90bc552f69651a87f2f8
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\2. Bagian Perekonomian dan Kesejahteraan Rakyat.docx | be7ea936b599820b9519999c1b98d2f025c9a82d937b8e9850e96390e3996be6
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\22. DPMPTSP.docx | ebd94e88cd3c5bfecee199eaeb277c7c9e0927b9030298d71c9b980890425fe0
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\23. Dinas Perdagangan.docx | 95c75c671503ff2a5b0bae514ebd4514dac62609a73dd2537292c9dfe3a86756
+[2026-09-17T15:49:02+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\24. UPTD Metrologi Legal.docx | 04b184e7fc0db494ae3040a1117275fa67775f2ced334682788b76eb156f49d1
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\26. Dinas Komunikasi dan Informatika.docx | 726e997c8ad894be27243d32e5e597d99f334f2d7012f20f83e690dc20799688
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\29. Dinas Perhubungan.docx | 2ca424c5e6596f99b02cef7b01ae825ceb656fb740bb20456549c2bb04da9478
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\33. Dinas Perpustakaan dan Kearsipan.docx | ecd97001e1d9d93e0439ea95a0698f02a807e46432ee34c3d09a9c300806c622
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\35. BKPSDM.docx | cc39c7af130100a5eac92f8718d7c0aa8f82275eab28cfa53a6e7787742584a7
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\36. BKAD.docx | ef349ed0f536ff1e0dc15fa1fcb0459f319e315e13031790f4f2f229b61a5468
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\4. Bagian Organisasi.docx | c3bbb56cee03a311757a7a2757c99b68114acfcc9afcbff2bd1ae9254f91bfea
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\42.  Kelurahan Oro-Oro Ombo.docx | 7ba6c144a222e54354cbeac551440a156917b1b58e2b37a3331bc85936e935f9
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\46. Kelurahan Pilangbango.docx | 71026738faf20d0b56f335185e892c4d7b1c192a143d5378fb3fd9a8c42fea69
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\5. Bagian Umum Sekretariat Daerah.docx | 31b3418607eca002aa2318fb56d5a1510726c1b9f6f970ba91c70c0a2e20ef7d
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\6. Bagian Pengadaaan Barang Jasa dan Adbang.docx | cd6539fe8d5c314a5b40d3e1e448f791c6571a36b0f54a0eeceb4f942fdb844f
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\64. Kelurahan Banjarejo.docx | 785876dffe48c203237fb5a26c01b7eb7000d919889968c2b76dccd29d819fbf
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\66. Kelurahan Manisrejo.docx | c64eb2f46b3963c968e6c1fd9457a1746b9bd1a0faf6d631a802f62660fe96cc
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\67. Kelurahan Kejuron.docx | 4b54014075480736f2ff2361cacbf86a7b8947e7dce3a71d95cd1cabe51392e8
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\7. Sekretariat DPRD.docx | 5d94071c87e8ea25b3a5aa2e40a43555e8c5cce0ee45d2215f0bad84a9648e78
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\~$ Bagian Organisasi.docx | 375739c425fc5eab159357a6c0da1719d4cd49d5db7fb1121b8b02f4ab134aaf
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 OPD Kritik, Saran, Dan kekurangan\~$. Puskesmas Ngegong.docx | ced05f4f3b8726d29429c53c496f3a1688e59f819186e40c1d5b73eecd6ab946
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\1. Bagian Pemerintahan Sekretariat Daerah.xlsx | e1bd4895fdf33441808a58a2f3c7803d1728da478d28e4224a3491af6568c7b3
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\10. Disbudparpora.xlsx | 800cc26e9faab72e4fc8e0b4a25d8ca9fb8c1bbe57e46f582f9e98e5e8a8fcea
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\11. Dinkes PPKB.xlsx | bc2b397c68db3dbaca082c039d2a963c3a7908cf46428b47ae47211e6937e79e
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\15. Puskesmas Ngegong.xlsx | 7e6236eea009ba9d66d273896d91c33eaa2a86eeb9d5ee7cc8f29ef98c776ba6
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\17. Puskesmas Banjarejo.xlsx | c41fcf29ff87d459b85e84d6b2053f949a3c3b05a8d1aba02d58629f1beaa708
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\2. Bagian Perekonomian dan Kesejahteraan Rakyat.xlsx | 22bb0615c8c638b1eb99da474c127823eafa16167ba0ec709be04778e5f77583
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\22. DPMPTSP.xlsx | 2336ee4ad42d39206d8d635fe676100f998a7e2d1205b7132e5012186591774b
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\23. Dinas Perdagangan.xlsx | e455f8eab78f9ce696894004a5c295cece7b8e7b96fdaa47c3ce96521de2d565
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\24. UPTD Metrologi Legal.xlsx | 9bd3bd57b15673723dd6863aff8a8961f44e0aa4bf011bd2420c6a78cf50fe71
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\26. Dinas Komunikasi dan Informatika.xlsx | fc25a2e71521c36bd3254acc69817478d106a5155bab57a991c57b00062cecc1
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\29. Dinas Perhubungan.xlsx | 70f9fee6c5b99a59a41f48286a0cfe51b5b595d9b6dd2be44a5e1240df75a3d7
+[2026-09-17T15:49:03+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\33. Dinas Perpustakaan dan Kearsipan.xlsx | 9973ec71c99a88ab5d022cf1bce7e1c3a76bbfe59caa2e67f112fab601a87131
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\35. BKPSDM.xlsx | 5f7ce026e9e5a39bf0d87b34693241f7cb532b320562473d9e1c8b6a71ccde01
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\36. BKAD.xlsx | 92b8caa299381ac29a5f85d27f706c47a982d49c4de8aa88b1438a32ca347e6c
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\4. Bagian Organisasi.xlsx | 02673bd3daaee5a8fd6fe9d32ee364e126e682a4a5d8ccc87242a0a050450b58
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\42. Kelurahan Oro-Oro Ombo.xlsx | 43879955c5c7ab87ab02e8ceba79dfd87e293e5b56cb5e0c321e08adbda37239
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\46. Kelurahan Pilangbango.xlsx | 77f7f775485b556935967b5dd73ea3d844925d90d0f881ca6a6dfee2fb104670
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\5. Bagian Umum Sekretariat Daerah.xlsx | 845be225cb4a423e362a29d2670b277dab62bfa3653203850dfb47f965d0cd8e
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\6. Bagian Pengadaan Barang Jasa dan Adbang.xlsx | 43d2f11765e6858680ab14a5681e2df233c50818f315bc04044b624f53a1fc8b
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\64. Kelurahan Banjarejo.xlsx | ba21af613d7e08048e1a572e736c59072495d70c70545bb588459ae01897e6b4
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\66. Kelurahan Manisrejo.xlsx | 5297e906423d69d1e63aa0d7a2c45213b39a8ca0aaface5b2c859fb8222e764e
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\67. Kelurahan Kejuron.xlsx | a1d4a63f27d4d8d8eaa108aea01c95a51336ab2b6563b378895e0bb3287af039
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\7. Sekretariat DPRD.xlsx | 21cdda753a4caf22c983347d6c99b8e9f1a6954ac4660d3d25e2dfce1e5c284a
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\~$5. Bagian Umum Sekretariat Daerah.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\~$6. Bagian Pengadaan Barang Jasa dan Adbang.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\~$67. Kelurahan Kejuron.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\23 opd mentah\~$7. Sekretariat DPRD.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\13. Puskesmas Manguharjo.docx | bc9b8056d05c1ea15b086b38579725dd0d2e6b9ddccbb2d2e41ba30c99c7c2f2
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\14. Puskesmas Tawangrejo.docx | b8ba785546e5d074c0affa5c9c86176114a33e0db62c2762d1c9c0bbe906e303
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\16. Puskesmas Demangan.docx | 68935b93970c615d761780470ed5210a31ed5cd6cde9bfb5b291a60c98c5c354
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\18. RSUD.docx | 7ae79e1b6e6407c1836093498240c100cd72874f4b7270b567cb7b099d7eea38
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\19. Dinsos P3A.docx | c90ba527ea99d145f7f0db94cc5f838fddeb53c0bf2c2513526a54520eefd009
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\20. UPTD Perlindungan Perempuan dan Anak.docx | 45761971ffc28ab82a1f4a16dd1769873d24e655b22533e5d604f71c33127ae8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\21. Dispendukcapil.docx | cf357b7aefe62044421bba2114c01df0c2cfae42e1e6d819ff3377d7c6e4a24a
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\3. Bagian Hukum Sekretariat Daerah.docx | 27c5f3693dc8bd9938075d6bfce563a40ced3c4a2b58926952aa6c903979402b
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\41. Kecamatan Kartoharjo.docx | 2993e4b4f4a5ed512329b89763ad2abaa9428896fd4c86d5a6733e92e6f2e1bf
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\43. Kelurahan Sukosari.docx | ce0e9940fa62f10704a1a2b439fc94ab179e611e63f091db3841156473822514
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\51. Kecamatan Manguharjo.docx | 8326239c38f3834882848ce40eabb36b1ab261ee92c2ecb4c311a49c52eb757d
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\52. Kelurahan Manguharjo.docx | d2909e10dff68702f0978dce64c9b080dbadc73f96db6c4a8be6c45a5fbebfa5
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\53. Kelurahan Sogaten.docx | 1aec939ad59667af1922f06fe60838ed4410ece6190e755451f9cf5df3c1345a
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\55. Kelurahan Ngegong.docx | 503771ad2960d86ff8298992d47ec7dc429f874364ca98bc2bfda5951afd5eed
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\58. Kelurahan Pangogangan.docx | 55fead0245674556dc64f8431061c975c30d77f349c795365f1b2e0c46a9fbe8
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\61. Kecamatan Taman.docx | 6874c6915004b66c5e157b23cfa5902fc6d6eaaeb1fa80170090831c422852c9
+[2026-09-17T15:49:04+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\62. Kelurahan Mojorejo.docx | 8e460ef7cbeecc93815e9c90ff055fbaa88d0ef40a9a2a3a334c0a5487f3a612
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\63. Kelurahan Pandean.docx | 0c28c85598bbe6f3aaf202fb5e72538c259ca6684d5c07272bba30ca55c5cc08
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\65. Kelurahan Kuncen.docx | 6921321d2aff4793df726eaa31f1f7079be2e95066b4adec7cc5c383c0717e69
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\70. Kelurahan Taman.docx | d62e9e18463f37607313dddc9d20d755b39386742f5c86a450060787a84bcb34
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\71. PDAM Tirta Taman Sari.docx | 195ac3b5abbbe9a7bba84d9a8448a3649e7c4056c53155606a79abbcefcc68f8
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\72. Perumda Aneka Usaha.docx | ce1288f9d3021afb6523920d5e1b2aaa6f3f2bfae03b758cc7c4c92122bcf539
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\8. Inspektorat.docx | 10831f6516f946f0d9d6d70b49b6cb94866dadee2ac218c9de5f5f5ec68d7f66
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\24 OPD Kritik, Saran, Dan kekurangan Layanan\9. Dinas Pendidikan.docx | 51e6c157f50bfa2e1dd07b624937562118825eaeef180d651ac00a6d4243ea28
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\74. SMP NEGERI 1.xlsx | 98af6b3ba072c062d273562df97562e57b893a9b8e17a9275f39721a2848fdc4
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\75. SMP NEGERI 2.xlsx | caf98b1ae30fc40c4e4c13c4c0017550683ab7f2c640822e16aa12bac5d37959
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\75. SMPN 2.docx | 7ecc47f40dfcbd6d22d9858d11568fd9c1ce123d502155b81e6babe438b751ea
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\76. SMP NEGERI 3.xlsx | 7776c3b49240b6bafcb6baa26e1defb2fc736df6f8dadd50547b84d6223e29c9
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\77. SMP NEGERI 4.xlsx | fba48acb1017a24793c250203a893350ef122d8a8de6912e264acf41dac6fd58
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\78. SMP NEGERI 5.xlsx | f5f995de0d0e32f68a7a1c3930fd7221becaad830b03490ea130ba35abc72652
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\79. SMP NEGERI 6.xlsx | c8bbb4126c2c827fb82e80ff76d2c5c00979a070adebba1a4e511aa7634ded79
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\80. SMP NEGERI 7.xlsx | 63ffc86eb14959cbbbcc895903bcb693a096d75210c17c8535be09c2c6e9ce75
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\81. SMP NEGERI 8.xlsx | 5d735b9830c7d243fc23950f6413b18388979e1494757efd1434937b11b9b966
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\82. SMP NEGERI 9.xlsx | a16937f49f25c2e95a106358a689970d47b25ff3f2dbd7391d367e085a66cce1
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\83. SMP NEGERI 10.xlsx | 0dc686c0163995903c0721bb1202f394c59f3f228a5c805bc09bdd82d54c0298
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\84. SMP NEGERI 11.xlsx | 6d8c7b68f29468ed0f1bbc54c1788dac39f50dd2b1aea51ded024b9fec28f1a3
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\85. SMP NEGERI 12.xlsx | 0e0063d2ba1bdd75c98881f6b6f0d72ee71bb49a8dd4db221a7046ff7637a7a4
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\86. SMP NEGERI 13.xlsx | a649b07adebc93f36736bf555cde2f467995fde20940dffe59b0b69904c4a26e
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\87. SMP NEGERI 14.xlsx | a97736d05f77268fed869249efaa39bba58ca6546bd82a437dd5d0898300c6b3
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\88. SDN 1 KARTOHARJO.xlsx | 8341cba79e6dd4e99eb24d16b65c7b8e5094baaa59810686d1ec6844ba573043
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\89. SDN 01 KLEGEN.xlsx | ee907188baff6ca0e95a1202941059533dc9a3b3260e0f4bb8bbb594cb57aa5f
+[2026-09-17T15:49:05+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\90. SDN 03 KANIGORO.xlsx | 8a5fbff66275b1b72651583239170560ae175559c0a358e01f1786157154b805
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\91. SDN PILANGBANGO.xlsx | dd9e183dc8ac2e1bed51eac1ae2900b082f2e440e56b291ed51ced7025eb3c65
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\92. SDN 05 MADIUN LOR.xlsx | ae5cc7c16b5f64e4eb1f4dd56ae251af890f3e80378815127f6b7c1ef6bf5778
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\93. SDN 01 WINONGO.xlsx | 238210d047528daef06f392fa98e87d438a4787ebc114fb82ecf9b09812a6f67
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\94. SDN 03 MADIUN LOR.xlsx | efe11f7d1186da85ca6217dfe5583485ec88e62e489542b74ce38690c47ff005
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\95. SDN PATIHAN.xlsx | c158f6b6a632f52fc8f5baa832e91521af55f1ee1f119193a3142fa9789eb795
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\96. SDN 01 TAMAN.xlsx | 22f49495bd6635e26cfecf3022cc5919f0ef1911cbf3620ea2edfc01cea7fce3
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\97. SDN 02 MOJOREJO.xlsx | a3bcc664c10426b52ac07a375c9862df81b77c4589bd5a5b5cc011773273e7b1
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\98. SDN 01 MANISREJO.xlsx | 45089a2d2e8d11c5cfaacaaba562bbf9beb1c177f0fab2a41c09cc8c7a9b012a
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\99. SDN BANJAREJO.xlsx | c0827c1411b1b87f9777878042f49144f4a21db76d037ea2ddd1d5e4a3587835
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\~$74. SMP NEGERI 1.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\Kritik dan Saran\kritik\~$75. SMP NEGERI 2.xlsx | 88934c0aaed06d28ef2143923642b007b5fba06fed77279879a3d98e6c817fa8
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\13. Puskesmas Manguharjo.xlsx | 8be47a7944fba2ae9073581831286ab61f86264cb368ffae7223d41e421f3293
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\14. Puskesmas Tawangrejo.xlsx | a8837c827911e79b881433547f2ffb81dc2a45ec89cf8e3b43197097253079c5
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\16. Puskesmas Demangan.xlsx | 241dfa1624b07e31f7dbe45609c7ae1f5294cb5ed214d94c4962d760b7aecf5e
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\18. RSUD.xlsx | 534e755fce74d49624381b89e8f367ab1d2e82e586f4677e47a03ae2266e7dbb
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\19. Dinsos P3A (kurang yakin 1).xlsx | 30df712bea60024cf5a2980a28dbc63d3e8588a705c3ce0860087e8cf68263fa
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\20. UPTD Perlindungan Perempuan dan Anak.xlsx | b4100fe3613876f01cfd9307d2c9bb4cea1f1b43feffdd59645f173f2477f1e3
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\21. Dispendukcapil.xlsx | 17720c56af11f4c30427dfc6e6fa8a16aa5bc6538ae68f51ed6fa3e00c41f1ab
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\3. Bagian Hukum Sekretariat Daerah.xlsx | ea6aac4505076419e4f2ec0ec0a219a03652308a5e7f9695804d6a2d3cd02609
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\41. Kecamatan Kartoharjo.xlsx | 27d9a462524e90bb3a083e17074b1c428f7cc892dfa1fcbdf935258081492322
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\43. Kelurahan Sukosari.xlsx | 946f65f7b4f1149ef74151f0e92e199b33983e2885d7904eea112d12bc056bc7
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\51. Kecamatan Manguharjo.xlsx | dd8940ec1f30e24d6957a8fa0e32540909377de4da37e87d8ffb3d46e45189cf
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\52. Kelurahan Manguharjo.xlsx | bde8aa00854922fff82a735634df62f613199a9f16e51d10e946cd9a0ae3fa3d
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\53. Kelurahan Sogaten.xlsx | dbaf097b31404d221ef41045329276ec0555d2eb1d187bfe76901ae9bde389fe
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\55. Kelurahan Ngegong.xlsx | 5baac255d1b9cec927518219d534da68e233fc67b7ebfaa79a23281263f2e271
+[2026-09-17T15:49:06+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\58. Kelurahan Pangongangan.xlsx | cd5b93ac6dbb9d7e66c286995677527d06eaa07af4be9a97cec6e76e0b59cc92
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\61. Kecamatan Taman.xlsx | 7d532e8d5a3883827c764d0f54d23ee4f2bb357df23e90e98d88e7f7fad41987
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\62. Kelurahan Mojorejo.xlsx | ec5c4e355f5bb4588c5c77fd9ac10624f5c534ec2c7b71c2e2fc3e62f53ea383
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\63. Kelurahan Pandean.xlsx | 1e744938c822ab1e12496552c9fb04656be0cfce7840f9d5c80cdf761e1902c0
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\65. Kelurahan Kuncen.xlsx | 30f01432237504e1848bd171893c3a1d3f71256c96cbdbbd949a79ac042ed028
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\70. Kelurahan Taman.xlsx | 719910cba8d14d808e2ec244a803950988e2eaa5c965dd872a16e421db904c5d
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\71. PDAM Tirta Taman Sari (cuma ada 1 layanan).xlsx | 82dc3a1d22c2b65b4167d1462e973d35737c98137e1e96dbf755b8bfa3bd9db6
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\72. Perumda Aneka Usaha.xlsx | 155904b4e88c7309c89af19b4f9e748bf2b394886cba70065b463060d2b7ef41
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\8. Inspektorat.xlsx | 7981b1578db2891a1f3dcfb32b4e05225c7b523b6260a1d17f0c3465c1055c89
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\opd analisis\9. Dinas Pendidikan.xlsx | 4740f78d55a7283f90179769f172bb2cb7d938ce39fbb027eb5c644392b06c28
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\Contoh isian MS Var - Jumlah Kegiatan Olahraga Kota Blitar.docx | f9c6dc06dd92efee2332a1f763206ede6be8038f0425d3f4fdba0b307855b1e9
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\Contoh isian MS Var - Jumlah Kegiatan Olahraga.xlsx | 233cc01088a24d29e2bf405ab6b2cb62ea50371926a7d3e406f91f5a2b6a97bf
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\file sebelumnya.xlsx | 71b2422d2e451557a8f4007dca9ffc76973b392d875a0f94891ce9a93e7f10cb
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\Langkah pengerjaan.txt | 179d24b096ae590f79fdbf63fbc08f1524fe76608294771ab6ecb14b1c7ad4e8
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\Petunjuk Teknis Metadata Statistik.pdf | ca11ed01c7ad06fd1248994c2e1b1945612ae48e2bb892acec6698b485428d93
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Referensi\Rekap data.xlsx | 6b9b48a26992e1a0085bd06d3d52e34cb4114d9c1bf9dc11fa12baac2a4fcf2a
+[2026-09-17T15:49:07+07:00] YARA_ERROR | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\1. Dinas Perumahan Rakyat dan Kawasan Permukiman.docx | YARA error: could not open file "D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\1. Dinas Perumahan Rakyat dan Kawasan Permukiman.docx"
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\10. Dinas Kependudukan dan Pencatatan Sipil (AutoRecovered).docx | c355e46afac5844b997134fb251fcaddc11bab9ac9002ae517a2fb5ff6cd1706
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\11. Badan Perencanaan Pembangunan Daerah.docx | cc863754c7a911e0a42c2c64c19279c9953c93232a58c53d5f7cfa8714328f3d
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\12. Badan Kesatuan Bangsa dan Politik (AutoRecovered).docx | b67f9f56651c7e5bc07d6d994b8c416b122117d87ce7888e6047acec517c5324
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\13. Badan Kepegawaian dan Pengembangan Sumber Daya Manusia.docx | 623a93a57fb96675ab18586c9c4eff34a4513339de60fa0161249ffc0afae5c6
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\14. Satuan Polisi Pamong Praja.docx | f8cb2037f764428b64a2ec877509d57c8c5635f0cec8675330bc030a15b85433
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\15. Dinas Pemberdayaan Masyarakat dan Desa.docx | e7e7417da80467676e567dd497832bdfd9f70a6e66782d171a9b749505d2f693
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\16. Dinas Transmigrasi dan Tenaga Kerja.docx | 84ac205a99653a33802a210aa87990544e41502eb828fc94720a3b482d88ebcd
+[2026-09-17T15:49:07+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\17. Dinas Sosial.docx | ba9647f04a6a69fe886288b78caf9af0e20281197552198a3218fe3429519836
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\2. Dinas Pemadam Kebakaran dan Penyelamatan.docx | 8db6aba14cb5c4cbc27f691c9b68477248467abc56d7de8d7d93b8f045afcb3f
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\3. Dinas Komunikasi, Informatika, Statistik dan Persandian.docx | 9b017bd5c49b379655a9e9f063b6487b10866e6ca53f75ed75807a1962bf0c4b
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\4. Dinas Perhubungan.docx | 55548d549fcf8ffbfc550a3162ea32aaf4b8295cc8c4d48daedd313ffa47ddaf
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\5. Dinas Pertanahan.docx | 066fc1ba92414411351962867499f5f88a0a2db2fda9f6f0db7bc89e421a8153
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\6. Sekretariat Daerah.docx | a8300a870a907cc5dc6ca9daa7869645a86fc59e23bb22e2b8e983d3b54bc047
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\7. Sekretariat DPRD.docx | 67e7e2fc62ae14e20315687b1490f0f176ce8fd6bdfa47bb156218d2b2741aed
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\8. Inspektorat Daerah.docx | 2a75b11bd7bcd658ae59cec0101bd85ef4ad691cb273c15c55b7754fc0a724b8
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\9. Dinas Kesehatan.docx | 085dbc3f7fd5d67a39cbb295d0995e0f358116b330b5f01f2def51c838bda8ad
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Dinas Kesehatan.docx | 0f55ea41e47c380c254db91a2c9e45311a1a3ece98b06f05385a67fd1ef5869c
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Dinas Komunikasi, Informatika, Statistik dan Persandian.docx | ddb7754ae50728c2805ae3914b369f5b7e336e92dbcc65e925424aa1353a92c0
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Dinas Pemadam Kebakaran dan Penyelamatan.docx | cee67fe9335eb957d7c80d9a0e8e6e83c1e8d233715cf48a7bd43551abd71c45
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Dinas Pertanahan.docx | 0e12e1d3a83f730ec55cbf55d0c624364f26fbfb8736dc96ca1a6d6a1c9fddb1
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Inspektorat Daerah.docx | 8c9d84abe8287257e0e4b8f9077606db7a034890724a4ab91277f7b069252bff
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$ Sekretariat Daerah.docx | 8fa29aa86f9bad918285b2be7363984a3de8b27b73f797f5f90f9b8c09b1f3e6
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$. Dinas Kependudukan dan Pencatatan Sipil (AutoRecovered).docx | b635662dceff365f203d31e1e8bfeaa8b2ae68a66c7756edfd2a885b0e970b7a
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~$. Dinas Pemberdayaan Masyarakat dan Desa.docx | fe567fdacd800c30fb7983823ac5ece6a762ce675c8649b86411c69bf623c08d
+[2026-09-17T15:49:08+07:00] CLEAN | D:/Documents/Tugas Ravena\Tugas Isi Ringkasan Metadata 1-17\~WRL1205.tmp | d3e2a965cad85e8ae4be1c990cf60d1d61f0f5cb38de2ab957d234ec14b83fb9
